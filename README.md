@@ -1,0 +1,1 @@
+# Taboola-Widget-Glossary
